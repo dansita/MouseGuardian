@@ -3,3 +3,10 @@ A C# app that allow the user to localize the mouse cursor in multiple screens an
 ## How to use MouseGuardian
 * You can see WHERE the cursor is looking at the virtual screen image (the screenshot of all monitors)
 * You can move the mouse cursor at the center of the primary screen pressing the CTRL key
+
+### Supported languages
+MouseGuardian is translated in the following languages:
+* English
+* Spanish
+* Italian
+* French
