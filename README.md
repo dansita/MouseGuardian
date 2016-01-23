@@ -5,8 +5,6 @@ A C# app that allow the user to localize the mouse cursor in multiple screens an
 * You can move the mouse cursor at the center of the primary screen pressing the CTRL key
 
 ### Supported languages
-MouseGuardian is translated in the following languages:
+MouseGuardian is currently translated in the following languages:
 * English
-* Spanish
 * Italian
-* French
