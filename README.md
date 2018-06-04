@@ -1,5 +1,5 @@
 IMPORTANT:
-I moved this project to BitBucket after Microsoft's GitHub acquisition.
+I moved this project to BitBucket.
 You can find it here: https://bitbucket.org/dansita/mouseguardian/src/master/
 --------
 
